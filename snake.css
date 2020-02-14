@@ -1,0 +1,7 @@
+body {
+  background-color: black;
+}
+
+canvas#game-area {
+  border: solid 1px red
+}
